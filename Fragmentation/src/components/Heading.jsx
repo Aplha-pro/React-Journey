@@ -1,6 +1,7 @@
 function Header() {
   return (
     <div>
+      <h1>Healthy Food</h1>
       <ul class="list-group">
         <li class="list-group-item">An item</li>
         <li class="list-group-item">A second item</li>
